@@ -13,4 +13,5 @@
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  
   <img height="30em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />       
 </div>
+<br>
  ![snake gif](https://github.com/jessicacirne/jessicacirne/blob/output/github-contribution-grid-snake.svg)
