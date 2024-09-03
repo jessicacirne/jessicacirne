@@ -1,5 +1,5 @@
-## HELLO!!!👋 My name is Jéssica Cirne, I'm a programming and technology student!
-🧐 I'm currently studying: C# and ReactJS <br>
+## HELLO!!!👋 
+🧐 I'm currently studying: web automation <br>
 🌎 Salvador | Bahia | Brasil <br>
 🚺 Pronouns: She/hers<br>
 📲 My Linkedin page: <href>https://www.linkedin.com/in/jessicacirne/</href>
