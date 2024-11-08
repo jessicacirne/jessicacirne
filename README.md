@@ -1,5 +1,5 @@
 ## HELLO!!!👋 
-🧐 I'm currently studying: web automation <br>
+🧐 I'm currently studying: web automation for tests <br>
 🌎 Salvador | Bahia | Brasil <br>
 🚺 Pronouns: She/hers<br>
 📲 My Linkedin page: <href>https://www.linkedin.com/in/jessicacirne/</href>
